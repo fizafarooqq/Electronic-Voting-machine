@@ -1,1 +1,1 @@
-# Electronic-Voting-machine
+The Electronic Voting Machine project aims to increase election procedures' credibility. An effective means of reducing corruption and increasing output. The project's foundation lies in the utilization of OOP concepts such as encapsulation, inheritance, and polymorphism. Through well-defined classes—province, city, district, person, voter, and party—our system encapsulates distinct entities, efficiently managing their related data and behaviour.
